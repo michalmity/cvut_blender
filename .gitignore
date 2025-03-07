@@ -1,0 +1,16 @@
+# Blender backup files
+*.blend1
+*.blend2
+*.blend@
+*.swp
+
+# Cache & render files
+__pycache__/
+*.tmp
+*.bak
+*.log
+
+# Komprimované zálohy
+*.zip
+*.rar
+*.7z
